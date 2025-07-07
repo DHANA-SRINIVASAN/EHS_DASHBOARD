@@ -1,0 +1,370 @@
+﻿"ID","Notice ","Date","Shift ","BU Name","Location","Machine No","Problem Description","Recommedation","Target ","Responsibility ","Alternate Responsibility","BU Head / Dept. Head","Status","Photo","Attachments"
+"8","STOP NOTICE","27-03-2023","I","GRS","Yoke Line ","IT1044- Riveting Machine ","
+Front guard bypassed (Control panel)  for Production cycle time increase by Production Team ","Additional Password protection or alternate protection required ","25-03-2023","Dinesh kumar.S - GRS","Rangadesikan.N - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed",,"0"
+"9","CAUTION NOTICE","08-04-2023","I","APU","STATOR CORE TIG WELDING MACHINE","IVW0181","Observation found that- In Tig welding machine, front door is damaged and fume killer is not effective, so that, operator opens side door for proper respiration, Tig welding smokes are highly toxic and working with opened guards may results injury","Suggested to replace the front door normal glasses to acrylic glass
+Effectiveness of fume killer need to be checked and cleaning frequency need to be improved","20-04-2023","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU","Closed","20230408_124408.jpg","1"
+"10","STOP NOTICE","13-04-2023","I","GRS","GRS Main Assembly line","IPH0171/Bearing press","It was Observed that, Even after pressing the emergency push button, Machine is running","Suggested to take corrective actions and need to inspect on daily basis","13-04-2023","Srinivasan.A.K - CSBU","Selvadurai - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230413_092052.jpg","0"
+"11","CAUTION NOTICE","13-04-2023","I","GRS","CSPU Armature line","IA0049/CNC lathe machine","CNC front door interlock is damaged, Machine is still running, even after opening the door","Suggested to replace the interlock and connect properly","13-04-2023","Srinivasan.A.K - CSBU","Selvadurai - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230413_091640.jpg","0"
+"12","STOP NOTICE","29-04-2023","I","GRS","Yoke line","IT0151/Yoke Press Machine","1.Emergency push button is damaged and not working
+2.SOP is not available in the machine","1.Suggested to replace the Emergency push button
+2.Provide the SOP","29-04-2023","Selvadurai - WED","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230429_085837.jpg","1"
+"13","STOP NOTICE","29-04-2023","I","GRS","Yoke line","IPH182/ Yoke Gimping","Emergency push button is damaged and not working","Suggested to replace the Emergency push button","29-04-2023","Selvadurai - WED","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230429_085523.jpg","1"
+"14","CAUTION NOTICE","16-05-2023","I","GRS","Armature line","IT0971- Insul Forming machine","1. Interlock is bypassed through magnet in manual mode- Chances of crush injury
+2.Guard is not available in insul loading area - Chances of crush injury
+3.Additional Control box is kept inside the machine for operation- Chances of crush injury in case of operating","1. Provide additional guard with interlock for insul loading area 
+2. Place the Additional control box out of the machine","17-05-2023","Rangadesikan.N - CSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","IMG-20230518-WA0015 (1).jpg","0"
+"15","STOP NOTICE","12-06-2023","I","GRS","GRS Armature line","ITA0098- Varnish Plant","Repeated issue
+1.Varnish waste are not cleaned since a week- It has spread across the machine
+2.Secondary containment is totally damaged, so that varnish spilled over the containment
+3.CO2 Suppression system-Nozzle is not focusing the varnish tank
+4.Electrical wires are covered with varnish, Due to improper cleaning, Varnish stains stays long- This points is applicable to all the varnish plants
+5.Flame proof lights are covered with varnish Stain
+6.In the floor, Varnish is not cleaning properly every week, So that it is converted into solid","Suggested to take immediate actions towards cleaning the varnish
+1.Varnish waste are not cleaned since a week- It has spread across the machine - Cleaned on 12.06.2023 and the same will periodically cleaned (Weekly once)
+2.Secondary containment is totally damaged, so that varnish spilled over the containment - cleaned and Oil Paper with Grease applied on 12.06.2023
+3.CO2 Suppression system-Nozzle is  focusing the varnish tank and the  pump- corrected13.06.2023 by C.WED 
+4.Electrical wires are covered with varnish, Due to improper cleaning, Varnish stains stays long- This points is applicable to all the varnish plants - cleaned
+5.Flame proof lights are covered with varnish Stain - Cleaned on 13.06.2023
+6.In the floor, Varnish is not cleaning properly every week, So that it is converted into solid - Cleaned on 12.06.2023 and the same will be periodically Cleaned (Weekly once)","13-06-2023","Rangadesikan.N - CSBU","Suresh.K - ABU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230612_082613.jpg","1"
+"16","STOP NOTICE","12-06-2023","I","GRS","GRS Armature line","ITA0090","1. Varnish spilled over the pump- During weekly cleaning- This area has not been covered for cleaning- It is converted into Solid.
+2.Electrical wires are contaminated with varnish waste- This area also not covered during weekly cleaning
+3.CO2 Suppression System nozzle is not available pump machine and tank
+4.Varnish has contaminated the floor- This area needs deep cleaning","Suggested to take immediate actions 
+1. Varnish spilled over the pump- During weekly cleaning- This area has not been covered for cleaning- It is converted into Solid. - Cleaned on 12.06.2023 and the same will be cleaned periodically (Weekly once)
+2.Electrical wires are contaminated with varnish waste- This area also not covered during weekly cleaning - Cleaned and routed properly on 12.06.2023
+3.CO2 Suppression System nozzle is not available pump machine and tank - Positioned towards Varnish pumping Tank on 12.06.2023
+4.Varnish has contaminated the floor- This area needs deep cleaning - Initial cleaning done on 12.06.2023 and oil paper with Grease provided on 12.06.2023","12-06-2023","Rangadesikan.N - CSBU","Suresh.K - ABU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230612_082657.jpg","1"
+"17","STOP NOTICE","20-06-2023","I","CMSPU","Drive line","IPH0178 Pinion Hard Turning","1.Front guard interlock is bypassed with magnet
+2.Front guard railing  is totally damaged, So that door is not closing totally while operation","Need to fix the door and connect the interlock properly","20-06-2023","Srinivasan.A.K - CSBU","Vinoth Kumar.V - ABU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","IMG-20230620-WA0008.jpg","1"
+"18","STOP NOTICE","20-06-2023","I","CMSPU","Drive line","IT0252 - Pinion tooth chamfering SPM","1. Right side guard is bypassed with magnet by the Operator Mr. Subbiah. M(49430)","Suggested to provide appropriate interlock to avoid this kind of bypass and take necessary action","20-06-2023","Srinivasan.A.K - CSBU","Vinoth Kumar.V - ABU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Interlock bypass.png","1"
+"19","CAUTION NOTICE","20-06-2023","I","GRS","HDGRS Shaft line","IG0111- Armature Shaft machining","Please find the image that
+1. In panel, Switch is marked in manual mode, but machine is running in Auto mode,
+
+This creates confusion between Auto and manual during Breakdown activity, Injury may happen","Suggested to reconnect the switch properly to avoid incident","20-06-2023","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","manual auto.png","1"
+"20","CAUTION NOTICE","27-06-2023","I","CMSPU","Shaft Line ","IF0010","The induction turning machine coolant oil overflowed and the workplace very unsafe and slippery condition","To be corrected and maintain workplace dry and clean condition","29-06-2023","Balasubramani.M - CMSBU","Ramesh.A - CMSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","IMG20230627084642.jpg","0"
+"21","CAUTION NOTICE","03-07-2023","II","GRS","HDGRS","IPH0144- YOKE GIMPING MACHINE","1. While pressing the tap switch, It is not returning back, So that, Multiple/continues strokes carrying out by the machine automatically - Chances of crush hazard
+2. Photo guard is not covering the entire Operation- Gap Observed between photo guard and side guard
+3.Photoguard wiring insulation is damaged badly","1.Suggested to replace the tap switch or provide two hand long hold - Tap switch renewed
+2.Need to Extend the guard or Photo guard distance - LHS gap guard additionally provided
+3.Wirings replaced","04-07-2023","Selvadurai - WED","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230703_170928.jpg","1"
+"22","CAUTION NOTICE","05-07-2023","II","GRS","Shaft line","ITR0014- Thread rolling machine","1. Front guard interlock is bypassed
+2. Clamping unit is placed very close to the rotating shaft, Which is not entirely guarded- chances of Entanglement is high","1. Need to connect the interlock
+2. Rotating shaft need to guard properly
+
+Door interlock program revisited and updated for Shaft Thread Rolling & Spline Rolling corrected","06-07-2023","Selvadurai - WED","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20230705_191316.jpg","1"
+"25","CAUTION NOTICE","15-07-2023","I","APU","Core line","IVW0195 and IPH0241- Tig Welding and Press machine(Near)","In both machines, Argon cylinder with full pressure is placed without support/Stand- Near the cylinder Trolleys with material movements observed
+
+If the cylinder gets fall, Major incident may happen","Provide the Support/Stand as soon as possible and isolate the area","17-07-2023","Vallavathevan - ABU","Prasath.M - ABU","Saravanan.E - ABU","Open","20230715_101228.jpg","0"
+"26","CAUTION NOTICE","18-07-2023","II","WED","Vehicle Running in Peripheral and EPU","IBA0182- BOPT","1. Brake is not working, while reverse movement
+2. Vehicle carrier is uneven, So that while carrying the materials, it may get topple","Suggested to take corrective actions","19-07-2023","Jayachandra babu.D - WED","Govindaraj .P - WED","Balakrishna Pawar - WED","Open","20230718_211852.jpg","0"
+"27","STOP NOTICE","24-07-2023","II","GRS","MGRS ","IT0917 & IT0918","IT0917 Door interlock bypassed with magnet
+IT0918 door Sensor not working","To be corrected and educate the employees 
+
+IT00917 Pin Forming RHS Door interlock - Counselling given to the Operators
+IT0918 - Sensor problem Corrected","25-07-2023","Sathish Kumar.P ( Module Controller ) - CSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","77c4a4b9-c5a8-482c-9f00-7c4fb04c7318.jpg","0"
+"28","STOP NOTICE","25-07-2023","II","EPU","Armature Brown stage ","EIEL0008","dynamic balancing machine bypassed by the help of cardboard 
+Trainee: Harishkumar - 49373
+Cell Leader : Mr. Balaji","Take necessary action and Educate the employees ","25-07-2023","Krishnaswamy.V - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Closed","b80fddba-129b-46cf-8016-03dae9c0e236.jpg","0"
+"29","STOP NOTICE","27-07-2023","II","APU","Stator","ITA 0070 - Paint Plant","1. Due to failure of local exhaust system in the paint plant, the paint is observed to spray back at the operator's face every time.
+2. Improper flow in the water curtain 
+3. Secondary Containment is unavailable for the paint mixer","1. Stop Call Wait not followed as the exhaust system is said to have failed yesterday (26.07.2023). - EXHAUST FUNCTION FAILED TODAY ONLY
+2. Proper flow to be ensured in the water curtain. - WATER FLOW ENSURED
+3. Secondary Containment to be provided. - AVAILABLE
+4. Efficiency of the exhaust and proper working condition of the water curtain to be included in PM. - SPARE EXHAUST REPLACED
+","27-07-2023","Prasath.M - ABU","Karthik - ABU","Saravanan.E - ABU","Closed","IMG-20230727-WA0020.jpg","1"
+"30","STOP NOTICE","31-07-2023","I","APU","Stator line ","IZ 0086-Stator coil winding machine ","1. Machine Back side door top side door interlock is not working and bottom side door lock is not working properly. - WORKING
+2. Machine hexagon movement and rotation can be accessed through copper de coiling area machine bottom opening. - CLOSED
+3. Right side de coiling area door top side interlock is not working. - CORRECTED
+4. Insul push pressing de coiling motor coupling and gear movements are not guarded around the machines. - INTERLOCK PROVIDED
+5. Machine front side push pressing area movement is guarded with door but door interlock is not available. - machine movement and pinch point is accepted when door is open condition. - INTERLOCK PROVIDED
+6. Machine Front left side door interlock available and it’s not working. -GUARD FIXED
+7. Machine movement is guarded with door over the photo guard and cylinder and machine movement is accessed when door is opened. - GUARD FIXED
+8. Left side the machine hexagon movement/rotation area fixed 2 door is removed but it's not re fixed. But the machine is running. - GUARD FIXED
+9. Panel chiller unit hose clamp is not fixed in outlet both side and inlet panel side.
+10. Machine inlet air valve handle is not available and valve handle knob is worn out condition.
+11. Machine network box Switch box is broken condition. This is fixed on the machine panel.
+12. Air solenoid valve is hanging backside of the machine and it’s not mounted. 
+13. Copper scrap winding wire is accumulated under and on the machine table. - CLEARED
+","Please rectify all the observations.","01-08-2023","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU","Closed","IMG_20230731_094014 (1).jpg","0"
+"31","STOP NOTICE","31-07-2023","I","GRS","HD armature line ","IT0971- Insul forming & Insertion ","Insul forming & insertion  machine- Front door interlock sensor is bypassed with magnet. ","Please rectify the observation. 
+Insul forming & insertion  machine- Front door interlock sensor is bypassed with magnet Both the interlock is working. While tool setting operator wrongly kept the magnet on the sensor. Advised them not to use the Magnet on the sensor","31-07-2023","Rasheed - CSBU","Selvadurai - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","IMG_20230731_123229.jpg","0"
+"32","STOP NOTICE","03-08-2023","II","APU","APU- stator line ","IPH 143 End forming machine","1. Machine Photo guard is not working when interrupting and the machine is running continuously and completed the entire operation. The machine is not stopped. 
+
+2. Producer maintenance chart is available but it’s not covered all three shifts and also machine specific safety check points are not available. In this PM chart Photo guard, Emergency Switch, Two hand control/tap switch/foot pedal function and door/guard inter lock and other working conditions are not included. 
+Currently PM chart operator ticks only the check points & the operator is not signed and supervisor also not verified & signed. 
+
+3. Tap switch is fixed instead of two hand control and this is a standalone machine. 
+
+4. Left & right side sliding guard is fixed, but guard interlock is not available. Machine movement and pinch point and can be accessed when guard is open condition. 
+
+5. No Guard is available backside of the machine.
+
+6. Machine movement & pinch point can be accessed backside of the tap switch. The guard is not available. 
+
+7. Machine movement can be accessed over the photo guard/ or PG height to be increased.
+
+8. Tray with materials kept inside the control panel.  Combustible materials kept in front of the panel and panel access is blocked. Large open on top of the panel. 
+
+9. Operating panel display is lighting is invisible and mounting height of the display is little high so it’s difficult to the operator while accessing the panel. 
+
+10. Small hydraulic pump motor is not double earthed and guard mounting screw is missing.
+
+11. Hydraulic motor cable gland is not fixed and Motor body is not double earthed. Opening on the motor fan guard and shaft rotation can be accessed
+
+12. Oil leakages on hydraulic regulator and fittings. Oil spillages on hydraulic tank and backside of the machine.
+
+13. Pinch point is identified while stator clamping cylinder movement.  
+
+","Please rectify all the abnormalities","04-08-2023","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU","Open","PG.PNG","0"
+"33","CAUTION NOTICE","09-08-2023","I","GRS","LD GRS Main assembly line-2 ","LD GRS Main assembly line-2 Conveyor ","LD GRS Main Assembly line- 2 conveyor: Pallet struck on conveyor minimum 20 times/shift; Every time operator stopped & open the door to align/removed  the strucked pallet. 
+
+Possibility of Hand cut & crush injury might be happened when unexpected start of conveyor while doing this activity. Please take necessary action to avoid such activity.
+
+Operator opened the door but they were not closed  door after doing such activity. The conveyor pallet transfer movement is always exposed. 
+
+This abnormality is already  highlighted on  24.06.2023. But no actions were taken. 
+
+
+
+
+
+","Suggested to take immediate  action.
+Action Taken : In BS6 GRS main Line line Omron Safety Door Switch  GLS - M1 (Magnet) with GLS-S1(sensor) provided on all the four door & the Conveyor interlocked and tested and Found OK ","09-08-2023","Selvadurai - WED","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","LD GRS Main assembly line-2.jpg","0"
+"34","CAUTION NOTICE","09-08-2023","I","EPU","Shaft line","ITR0006- Shaft knurling machine","Noise level found abnormal- It was Observed that noise level raises around 99.8 dB","Suggested to take corrective action- Average noise level should be 85-89dB surround 1 meter of the machine","10-08-2023","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","20230808_154447.jpg","0"
+"35","STOP NOTICE","14-08-2023","II","EPU","Armature line","Powder Coating machine- EIT0144","Powder is spreading all over the surroundings during process","Suggested to take corrective actions","15-08-2023","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","IMG-20230814-WA0010.jpg","0"
+"36","STOP NOTICE","30-08-2023","I","EPU","Crank case Sub Assembly line","E-IT0139","After Interrupting the photo guard, while pressing two hand push button, Ram is moving down without reset the machine- Crush Hazard","After interrupting the photo guard, Ram has to move to the home position after getting reset","30-08-2023","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","20230830_145632.jpg","0"
+"37","STOP NOTICE","05-09-2023","II","APU","Rotor line","IT0386- Slip ring press","1. Photo guard is not working in both Auto mode and Manual mode
+2. Emergency push is not working in both auto and manual mode","Suggested to take immediate actions","05-09-2023","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU",,"20230905_155428.jpg","0"
+"38","CAUTION NOTICE","13-09-2023","I","EPU","Armature line","EIO0001 Commutator Polishing","While starting and ending of Operation, Entire machine is vibrating/Moving- Stability of the machine is weak","Take necessary actions by today 13.09.2023","13-09-2023","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","20230913_095420.jpg","0"
+"39","STOP NOTICE","14-09-2023","I","Process","Phosphating line","Manual Spray Painting- IKJ0017","1. Paint Filter system is not working, While doing manual spray painting, Entire sprayed paint is returning back to operators face/Body","Recommended to take take immediate action","14-09-2023","Vijayaraghavan.K - Process","Kumar M - Process","Ramasami.M - Process","Closed","20230914_113208.jpg","1"
+"40","STOP NOTICE","27-09-2023","II","Wiper","Wiper assembly line","Gear wheel assembly machine","Machine photo guard is misaligned and left side guard is hanging out from the machine- Also the machine is not in use without any identification displays","Recommended to check and remove the machine from the line- if not in production use","27-09-2023","Stephen Paulraj D - EPU","Tikkaram.M - EPU","Prabakaran.P - Wiper","Open","20230927_111539.jpg","0"
+"41","STOP NOTICE","03-10-2023","II","GRS","Armature assembly machine","IT0487- Insul Forming machine","1.Emergency push button is not working - Completed on 03.10.2023
+2.Pinch point is easily accessible without the interruption of photo guard( Top guard is not available)  - Top Guard provided on 05.10.2023","Recommended to take immediate actions and provide top side guard to avoid pinch point access - Completed on 05.10.2023","03-10-2023","Selvadurai - WED","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","IT0487 top guard.jpg","0"
+"42","CAUTION NOTICE","04-10-2023","I","APU","Claw","Electric Rail trolley- Short blasting machine-IKS0004","Emergency push button is damaged in the trolley
+Emergency push button is not available in remote control","1.Recommended to provide emergency push button
+2.Recommeneded to provide emergency push button also in Remote control to avoid emergency response delay","04-10-2023","Jayachandra babu.D - WED","Raja.N - ABU","Balakrishna Pawar - WED","Closed","20231004_090543.jpg","1"
+"43","STOP NOTICE","05-10-2023","I","GRS","Sub assembly machine","ITE0027- Bracket bush assembly machine","Since it is a Stand alone machine, Front guard is not available and two hand push button is not available, Tap switch given to the machine
+ Action Taken: For Stand alone operation - We have introduced Double Hand Push Bottum","Need to provide two hand long hold and front guard","05-10-2023","Selvadurai - WED","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20231005_094551.jpg","1"
+"44","STOP NOTICE","05-10-2023","I","GRS","Armature line","IVT0682- Armature electric test machine","Front guard is not getting closed during the operation, Since the machine doesn't have photo guard, front guard is mandatory","The front guard is already connected to cylinder, Need to provide connection - Pneumatic Auto Door Restored on 05/10/2023","05-10-2023","Selvadurai - WED","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20231005_094305.jpg","0"
+"45","STOP NOTICE","07-10-2023","I","GRS","HDGRS Stores","IBA0242- Scissor lift","1. Mezzanine floor Scissor lift- Even after opening the door, Scissor lift is moving up and down, INTERLOCK ERROR- severity of crush hazard is high
+2.Side door lock is damaged","Recommended to take immediate action- Video Attached
+
+Proximity Sensor replaced - Corrected","07-10-2023","Selvadurai - WED","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","20231007_084230.jpg","1"
+"46","CAUTION NOTICE","09-10-2023","I","Wiper","Phosphating","IVX0067- Oven","Behind the machine, Entire gears and chain movements are not guarded, Frequent man movement is observed- Severity of Crush hazard is high","Recommended to provide guard for entire chain and gear movement area","09-10-2023","Stephen Paulraj D - EPU","Prabakaran.P - Wiper","Sakthi.K ( LTVS - Padi, EPU )","Open","IMG-20231009-WA0014.jpg","0"
+"47","STOP NOTICE","02-11-2023","I","GRS","Drive line "," IL0134- Hard turn and pinion bush assembly ","Machine front inspection door bypassed with magnet. ","Machine movement can be accessible when door is open condition, so door interlock to be fixed.
+
+Mechanical Guard provided","02-11-2023","Muneeswaran.G - LD GRS","Selvadurai - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","IL 0134.jpg","0"
+"48","CAUTION NOTICE","16-11-2023","I","GRS","LDGRS Main Assembly line","IT0836","It was Observed that, Front guard is in open condition during Operation- Interlock is connected only for one door, Meanwhile another door is kept unclosed.","Recommended to provide interlock for both doors and Suggested to do Horizontal deployment for all Main Assembly lines","16-11-2023","Selvadurai - WED","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","IMG-20231116-WA0001.jpg","0"
+"49","STOP NOTICE","16-11-2023","I","CMSPU","Shaft and  core line ","IP0070  IP0064 Blanking press EOT hoist ","IP0070 Blanking press  EOT hoist
+1.Lifting hook latch is missing 
+2.In coil lifting chain, bolt nut is used for connecting two end of the chains. But this bolt dia is worn out more than 30%  and also bolt bent more than 30 degree. Over the period of time bolt will be broken while lifting coil. Check nut also not available in this bolt. 
+
+IP0064 Blanking press EOT hoist- Lifting hook latch is damaged condition. 
+
+In CMSBU Blanking press EOT hoists lifting hook latch is frequently damaged or removed by the machine operators. Even after damaged the machine operators & supervisors are not reported to concerns for immediate correction.  
+Operators are operating hoist without hook latch.  
+
+Central WED team frequently changing hook latches in CMSBU.","1.Please use standard D shackle for connecting chains. 
+2.Please fix Positive Latching Hooks to avoid hook latch damages & frequent replacement. ","16-11-2023","Ramesh.A - CMSBU","Jayachandra babu.D - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","IMG_20231116_085318.jpg","0"
+"50","STOP NOTICE","15-12-2023","III","EPU","Brush box assembly line ","EIT0074- Earth screw tightening machine's","Earth screw tightening machine's (EIT0074) Two hand controls RHS push button bypassed. Mr.Sivanesh.R ( L07162 ) was operating the machine with bypassed condition. ","Please rectify the abnormalities.","16-12-2023","Senthil Murugan S - EPU","Stephen Paulraj D - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20231216_015049][1]_[1].jpg","1"
+"51","CAUTION NOTICE","20-12-2023","II","Wiper","Wiper line near APU","IGO151 and IG0001","1. While changing the alignment or dressing, Operator has to manually adjust the guide in machine running time-  we have found that, it may cause entanglement or cut or even crush injury
+2. There is no  platform available in the machine for guide adjustment, so that operator has to climb improperly over the the motors/machines to adjust the guide","1. Recommended to provide possible guard to avoid hand injury
+2.Recommended to provide proper platform ","22-12-2023","Stephen Paulraj D - EPU","Prabakaran.P - Wiper","Sakthi.K ( LTVS - Padi, EPU )","Open",,"0"
+"52","STOP NOTICE","01-02-2024","I","EPU","Armature line ","EIEL 0001- Dynamic balancing machine ","1. Machine operator bypassed right side door interlock with the use of  bearing for Adjusting the compound presence sensor.
+2. Bare wire inserted inside the switch box socket for Machine lighting","1. Training & Awareness to be given to the machine operators.
+2. Plug top to be fixed for the machine lighting cable.
+","01-02-2024","Senthil Murugan S - EPU","Stephen Paulraj D - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][23]_[IMG_20240201_121938 (1)][1]_[1].jpg","1"
+"53","STOP NOTICE","03-02-2024","I","APU","Stator line","IT0116- Coil insertion Machine ","1. RHS - Machine was running without guard in place . Guard interlock is not available.
+2. Top side -Machine was running without guard in place. Guard & interlock is not available  
+ 3.LHS – Machine guard interlock is not available 
+4. Bottom side of the machine- Machine movement & Pinch point can accessible bottom of the machine-  Machine guard is not available at bottom side.
+5.Electrical panel  & motor is not earthed 
+
+
+ 
+
+
+","1. Left, Right, Top & bottom side guard to be fixed with interlock.
+2. Control panel & motors to double earthed","03-02-2024","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240203_142342][1]_[1].jpg","1"
+"54","STOP NOTICE","03-02-2024","I","APU","Stator line","IZ0085- Winding Machine ","1. RHS- Machine was running without in place & guard interlock also not available.
+2.LHS- Machine was running without in place & guard interlock also not available
+3.LHS- Winding rotation pallet can be accessible through back side  of the pallet. 
+4. RHS- Winding rotation pallet can be accessible through back side  of the pallet. 
+
+
+","1. Guard & interlock to be fixed all sides of the machine.","03-02-2024","Prasath.M - ABU","Vallavathevan - ABU","Saravanan.E - ABU","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240203_143638][1]_[1].jpg","1"
+"55","STOP NOTICE","28-02-2024","General","CMSPU","Nearby CMSBU Maintenance area","IP0022 Press - EOT Hoist ","1. Emergency stop button is not working on the Pendant box. 
+2. EOT hoist isolator is inaccessible.
+3. Inspection sticker is not available for Hoist Incoming MCB box.  ","Please rectify this issue as soon as possible. ","28-02-2024","Srinivasan.A.K - CSBU","Jayachandra babu.D - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][31]_[Emergency stop- IP022 EOT hoist][1]_[1].jpg","1"
+"56","STOP NOTICE","29-02-2024","General","Process","Phosphating Right side hoist ","EOT hoist ","1.Hoist wire rope strand bulged/ Protrusion condition and Many wires cut on the wire rope.
+2. Hoist power cable is hanging.
+3. Hoist incoming isolator identification is not visible.","1. Please Close all the abnormalities as soon as possible. ","29-02-2024","Vijayaraghavan.K - Process","Kumar M - Process","Ramasami.M - Process","Closed","Reserved_ImageAttachment_[5]_[Photo][23]_[Incoming identification][2]_[10].jpg","1"
+"57","STOP NOTICE","29-02-2024","General","PMTC","MTC ","10T EOT crane ","1.LT (Long travel) break is inefficient
+2. CT ( Cross travel ) Break is in efficient 
+3 .Hoist up & down break is  inefficient
+4. Abnormal sound is coming on rail, during initial movement of CT and LT & Movement. 
+5. Dust accumulated on the EOT crane electrical busbar and crane rails. 
+6. South side - Red phase busbar indicator is not working ","Please close all the abnormalities as soon as possible.","29-02-2024","THIRUNAGESHWARAN.R - PMTC - MFG","VASANTHA KUMAR.V.G - PMTC - MFG","Udayachandran (LTVS - Padi, Special Projects)","Open",,"0"
+"58","STOP NOTICE","08-03-2024","General","Process","Phosphating ","Baking Oven -IVX0098","1. Oven is running with door interlock bypassed condition. Machine operator already communicated this to concern person but actions were not taken for closing the abnormalities. ","Please rectify this issue as soon as possible. ","09-03-2024","Kumar M - Process","Kumaresan.K - QC Lab","Ramasami.M - Process","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240308_110555][1]_[1].jpg","1"
+"59","STOP NOTICE","23-03-2024","I","WED","Fabrication shed ","3 Phase Welding machine -3","1. Welding cable insulation is damaged in close to welding holder and copper wire is exposed. 
+2. 30 mA RCCB is not available for welding machine. ","1. Welding cable to be replaced.
+2. 30 mA RCCB to be fixed.","24-03-2024","Annadurai.M - MSE","Ganesh.V - WED","Manivasagam - WED","Open",,"0"
+"60","CAUTION NOTICE","23-03-2024","I","Wiper","Wiper System line","IT0889","1. PM Check sheet is not available for the machine
+2.Oil Leakage is is surrounded the machine and not cleaned since 2 days","Recommended to Clear the oil leakage as soon as possible
+Separate PM Check sheet to be provided to all machines","23-03-2024","Stephen Paulraj D - EPU","Prabakaran.P - Wiper","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20240323-WA0003][1]_[1].jpg","1"
+"61","STOP NOTICE","23-05-2024","I","GRS","GRS Yoke line","IL0150- CNC Vertical Lathe","1. Heavy oil leakage/Over flow spread from the machine to the entire yoke line surroundings, cause slip hazard
+Note- It is a daily and repeated issue- Already near miss happened
+
+2. Safety Certificate is not inspected since march 2024
+","1. Recommended to clear as soon as possible and take corrective actions to avoid Spill/Over flow - Cleared
+2.Monthly Safety inspection to be done properly and need to be updated","24-05-2024","Selvadurai - WED","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240523_090413][1]_[1].jpg","1"
+"62","STOP NOTICE","10-06-2024","II","GRS","GRS -LD BG line ","IPH0130- 4T Hydraulic Press ( Press gear ring and brush box 3 & 4 roll over assembly) ","1.Photo guard is not available in Hydraulic press machine. Possibilities of Hand/Finger crush injury during the ram movement.
+2. Hydraulic oil leakages in ram cylinder piston and leakages from hydraulic oil tank. 
+3. Ram movement and pinch point can be accessible through backside of the guard opening.  Existing backside guard is not sufficient to prevent hand/ finger access to the ram movement.
+4. Machine safety fitness certificate is not checked and updated since April. 
+","Please rectify all the abnormalities as soon as possible.
+Action Taken:
+1.Photo guard introduced
+2. Rear Guard introduced to prevent hand/ finger access to the ram movement.
+","10-06-2024","Srinivasan.A.K - CSBU","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240610_153800][1]_[1].jpg","1"
+"63","CAUTION NOTICE","12-06-2024","General","GRS","Yoke line ","IVW0193- Submerge arc welding "," In submerge arc welding, welding smoke arises during the operation, it's directly spreaded to open work atmosphere  and this leads to exposure of welding fumes by welding operator and nearby machine operators. 
+Continuous exposures of welding  fumes will create inhalation hazard and long-term chronic diseases. ","Request to install fume killer or welding fume extractor.
+
+","19-06-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240612_094801][1]_[1].jpg","1"
+"64","CAUTION NOTICE","12-06-2024","General","GRS","Yoke line ","ITA0103- Yoke soaping plant ","While picking up yoke from bin and loading yoke to the soaping plant. Possibilities of operator head hit the machine operating panel, because existing position of operating  panel is located  in between yoke picking and loading activity.  This machine operator, operated yoke sizing machine and soaping plant simultaneously, so the possibilities of hit hazard is high. Please refer attached photo. ","Request to modify panel position or trolley bin. ","20-06-2024","Sasikumar.S - CSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240612_094334][1]_[1].jpg","1"
+"65","STOP NOTICE","04-07-2024","General","GRS","Melco Drive line","IPH0185 - Cover Sizing machine ","1. Photo guard is not working in Manual mode. 
+2. The photo guard position did not cover the entire ram movement.
+2. Machine guard is not fixed in left side of the machine and guard is not available in right side of the machine. 
+3. Poka Yoke - Cylinder piston movement is not guarded .
+4.  Switch box is broken condition in Control panel.
+5. Cotton waste and unwanted materials kept inside the control panel.
+6. Cable and air hose is hanging left side of the machine.
+7. Oil spilled over the hydraulic tank and machine.","Please rectify abnormalities as soon as possible.","04-07-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240703_144915][1]_[1].jpg","1"
+"66","STOP NOTICE","30-07-2024","I","EPU","PMC - Wabco CNC machine arae ","E -IA0022 & E-IA0012- CNC Vertical Machining center ","Coolant oil heavily leaked from the tank  and It's spilled around the machines, operator working area and walkway. Possibilities of slip and fall down of person is high.  The both machines coolant oil was leaked since yesterday but so far the leakage was not arrested and cleaned. Because  NO access to the coolant tank to find the coolant leakage causes. Also sufficient access and space is not available for cleaning, removing machining burr and cleaning the spilled coolant and oil. ","1.Please identify the leakage in coolant tank and arrest it. Also clean the coolant spillage area. 
+2. Request to relayout these machines with sufficient access and space. ","30-07-2024","Manivasagam - WED","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20240730_085954][1]_[1].jpg","1"
+"67","STOP NOTICE","30-07-2024","I","GRS","Drive line","ITB0009","Continuous Oil leakage Observed from the machine
+Oil reaches gangway and created Slip Hazard
+Repeated issue, that Oil is not getting arrested
+Machine related bins, Components and Scrap materials are stored in Gangway, Created trip Hazard
+Rust oil leaked from Inspection table, that reaches gangway","Recommend to clear those points as soon as possible, as those points are repeatedly happening","30-07-2024","Srinivasan.A.K - CSBU","Selvadurai - WED","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[20240730_104205_HDR][1]_[1].jpg","1"
+"68","STOP NOTICE","06-08-2024","General","GRS","Car starter drive ","IPH 0174- Cover rollover ","1.PG was  not working in auto mode. While interrupting the PG ram down movement was  not stopped. Also PG was not enabled for manual mode operation.
+2.Oil leaked from ram cylinder piston.
+3.Ram and pinch point movement can be accessible through left and right side of guard opening.","Request to change the PG , arrest the oil leak and close the guard opening.","06-08-2024","Sasikumar.S - CSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20240806-WA0004][1]_[1].jpg","1"
+"69","STOP NOTICE","09-08-2024","General","GRS","GRS SGM Armature white stage ","IT0595- Steel ring insertion ","1.Emergency stop button is not working.
+2. Hydraulic motor is not double earthed.
+3.Dust is accumulated over the hydraulic valve fittings.
+4. Exhaust fan is not working inside control panel.
+5. Cable is hanging and not routed inside the control panel.","1.Please rectify all the abnormalities as soon as possible.","09-08-2024","Harikrishnan S - CMSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20240809-WA0006][1]_[1].jpg","1"
+"70","STOP NOTICE","12-08-2024","General","GRS","Yoke line ","ITA0103- Soaping plant ","A minor head injury happened around 9.05 pm on 10.08.2024 in GRS Yoke line, ITA0103 Soaping plant. Women operator was taken yoke from the bin to loaded in soaping plant. While doing so, her forehead hit the operating panel and sustained mild cut injury on forehead. 
+
+The same abnormalities identified and issued  caution notice on 12.06.2024 but so far this abnormalities was not closed, So the incident was happened because of not relocating the operating panel. 
+
+
+CAUTION NOTICE ISSUED ON 12.6.2024:  While picking up yoke from bin and loading yoke to the soaping plant. Possibilities of operator head hit the machine operating panel, because existing position of operating  panel is located  in between yoke picking and loading activity.  This machine operator, operated yoke sizing machine and soaping plant simultaneously, so the possibilities of hit hazard is high. Please refer attached photo. ","Please relocate the operating panel.
+Relocated the Operating Panel ","12-08-2024","Harikrishnan S - CMSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20240812-WA0000][1]_[1].jpg","1"
+"71","STOP NOTICE","12-08-2024","General","GRS","GRS yoke line "," GRS IVW0193- Submerge arc welding","The below abnormalities issued CAUTION NOTICE  on 12.06.2024, But so far abnormalities was not closed.   
+
+In submerge arc welding, welding smoke arises during the operation, it's directly spreaded to open work atmosphere and this leads to exposure of welding fumes by welding operator and nearby machine operators.
+Continuous exposures of welding fumes will create inhalation hazard and long-term chronic diseases.","Please fix the fume killer. ","12-08-2024","Sasikumar.S - CSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed",,"0"
+"72","STOP NOTICE","06-09-2024","General","GRS","MGRS assembly line -2","IVT0718- Light run testing ","Front door interlock is not working in light run testing operation ","Door interlock to be rectified .
+New door interlock Magnet with sensor introduced
+","06-09-2024","Srinivasan.A.K - CSBU","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][58]_[Light run testing - IVT0718- door interlock is not working][1]_[1].jpg","1"
+"73","STOP NOTICE","09-09-2024","I","Others","Peripheral","IBA 0123","BOPT :
+1. Forward direction not working
+2. Sharp edge projections available (welding damage)
+3. Wrong arm movement ","Need to repair completely","10-09-2024","Jayachandra babu.D - WED","Balakrishna Pawar - WED","Balakrishna Pawar - WED","Open","Reserved_ImageAttachment_[5]_[Photo][15]_[20240909_073248][1]_[1].jpg","1"
+"74","STOP NOTICE","10-10-2024","I","GRS","CSPU Armature Line","IPH0099","Huge oil leakage from machine IPH0099","Regular maintenance of valves, hose, pumps.
+using of secondary containment tray.
+Required periodic maintenance and proper housekeeping. ","10-10-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)",,"Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20241010-WA0026][1]_[3].jpeg","1"
+"75","CAUTION NOTICE","11-11-2024","I","WED","CDC","Fork lift -IKT0001","Seat Belt is not available in the Vehicle","Recommended to provide seat belt to the Vehicle as soon s possible","11-11-2024","Jayachandra babu.D - WED","Umashankar - EPU","Balakrishna Pawar - WED","Open","Reserved_ImageAttachment_[5]_[Photo][15]_[20241111_143043][1]_[1].jpg","1"
+"76","CAUTION NOTICE","13-11-2024","I","CMSPU","ESD/CMSPU In Between","IVS0028- Solderingmachine","1. Heavy Dust Accumulated inside the machine- Potential Source of fire
+2.Emergency push button and the interlock id tied with rope
+3.Varnish spilled surrounds the machine over the Secondary Containment
+","Recommended to take immediate actions","13-11-2024","Ramesh.A - CMSBU","Arunachalam.S - ESD","Srinivasan.A.K - CSBU","Open","Reserved_ImageAttachment_[5]_[Photo][15]_[20241112_112956][1]_[1].jpg","1"
+"77","STOP NOTICE","14-11-2024","III","EPU","Brush box line assembly","E-IVW0021","Inside machine water leakage from tool ","Suggest to change the tool","14-11-2024","Senthil Murugan S - EPU","Stephen Paulraj D - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][17]_[IMG20241114040725][1]_[1].jpg","1"
+"78","CAUTION NOTICE","13-11-2024","III","EPU","Brush box assembly","E-IVW0012","Fume killer exhaust pipe got damaged in brush braid & inductor welding machine and fumes spreads through damaged pipe and same welding smokes are highly toxic.","Suggested to replace the fume killer exhaust pipe at the earliest.","14-11-2024","Senthil Murugan S - EPU","Stephen Paulraj D - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20241114_052303][1]_[1].jpg","1"
+"79","STOP NOTICE","13-11-2024","III","GRS","GRS YOLK LINE","IA0047","AGAIN SAME MACHINE HUGE COOLANT OIL LEAKAGE OCCURS, ","Suggested to find out the leakage path and arrest the leakage through secondary containment and through connecting hose.","14-11-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][17]_[IMG20241114021811][1]_[1].jpg","1"
+"80","STOP NOTICE","04-12-2024","I","GRS","GRS Yolk Line","IA0040 Muratec","Huge coolant oil sludge stagnant inside the machine, pump is tied up with the cooper wire, coolant oil leakage.","Suggested to remove all coolant sludge and provide proper platform for coolant pump ","04-12-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20241204-WA0022][1]_[1].jpg","1"
+"81","STOP NOTICE","04-12-2024","I","GRS","YOLK Line","IL0150 CNC Jothi","Again same issue in this machine huge coolant oil leakages and bur is stagnant inside the machine ","Suggested to remove the bur accumulated inside the machine and in secondary containment  to avoid coolant oil leakage ","04-12-2024","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20241204-WA0031][1]_[1].jpg","1"
+"82","STOP NOTICE","09-12-2024","I","EPU","Wapco Brown stage balancing wiper ","E-IEL0008","Door inter lock bypass by placing paper inside. Other than front side door all 3 side doors not working with interlocks.","Suggested to proper fixing of interlocks and don't bypass the machine","09-12-2024","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][10]_[1000210062][1]_[2].jpg","1"
+"83","STOP NOTICE","09-12-2024","I","EPU","BN7I HMIL","IT1090","Emergency push button seperated and fully damaged and its comes out from the box.","Suggested to replace the Emergency push button at the earliest ","09-12-2024","Stephen Paulraj D - EPU","Senthil Murugan S - EPU","Sakthi.K ( LTVS - Padi, EPU )","Open","Reserved_ImageAttachment_[5]_[Photo][10]_[1000210053][1]_[1].jpg","1"
+"84","STOP NOTICE","11-12-2024","I","CMSPU","Drive line ","IA0035","Two hand push got damaged, trainee operating machine with cycle on switch ","Suggested to fix the two hand push button, don't operate with cycle on switch.","11-12-2024","Boopathi.S - GRS","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][10]_[1000210701][1]_[1].jpg","1"
+"85","STOP NOTICE","17-12-2024","I","GRS","GRS Yolk line","IT0987","In Machine Magnetization without pressing two hand push button neumatic drop down and cause mild injury it shows unsafe condition.","Suggested for two hand long hold press to operate this machine.
+ Two Hand Long Holding Introduced.","17-12-2024","Srinivasan.A.K - CSBU","Balasubramani.M - CMSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][10]_[1000213634][1]_[1].jpg","1"
+"86","CAUTION NOTICE","18-12-2024","I","CMSPU","Shaft line ","IF0127 shaft grinding ","Coolant oil leakage from machine and it continues every time.,","Suggested to take immediate action to solve this regular coolant oil leakage ","18-12-2024","Ramesh.A - CMSBU","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][10]_[1000214073][1]_[1].jpg","1"
+"87","STOP NOTICE","19-12-2024","I","Process","Phosphating"," RHS - EOT crane","1. Many wires cut on the Hoist wire rope strand. 
+2. LT movement brake is not working.
+3.Two joints on the power cable.
+4.Noise observed during the hook block pulley movement. 
+5.Oil leakage observed on gear box.
+6.Lock pin is not available on the lifting  hook. 
+7.Noise is observed during the LT movement.
+8. Hoist Electrical panel cover is not closed fully.
+9. Hoist Incoming isolator is not working properly. 
+","All the abnormalities need to be rectified. ",,"Vijayaraghavan.K - Process","Velmurugan.S - Process","Ramasami.M - Process","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20241216_111218][1]_[1].jpg","1"
+"88","CAUTION NOTICE","19-12-2024","I","Process","Phosphating ","LHS hoist","1. L T movement brake is not available. While moving bin or Jig, the hoist Long travel movement is moved its own weight. So Break need to be fixed for Long travel movement. 
+2.Lifting hook lock pin is not available.
+3. Hoist panel door is not closed fully and hole on the hoist panel is not closed. 
+4.LT movement is stuck while handling the jig/bin.
+5.Noise is observed during the LT movement.
+6. Incoming supply identification is not available on the PDB. ","All the abnormalities needs to be rectified.
+1.L T movement brake is not available. As per discussed Brake not applicable.
+2.Lifting hook lock pin is available .
+3.Hoist panel door is  not fully  closed .Corrected and photos attached
+4..LT movement is stuck while handling the jig/bin. corrected 
+5.Noise is observed during the LT movement. Corrected
+6. Incoming supply identification is not available on the PDB.  Corrected and photos attached",,"Velmurugan.S - Process","Vijayaraghavan.K - Process","Ramasami.M - Process","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20241216_114324][1]_[1].jpg","1"
+"89","STOP NOTICE","19-12-2024","I","PMTC","PMTC - 5T crane","5T crane","1. Hoist upper and lower limit cut off is not working.
+2. LT movement break is not working properly.
+3. LT limit is not working properly on North side.
+4. Bend on the hoist wire rope. 
+5. Supply indication lamp - Red bulb is not working
+6. Loose connection on the pendant box terminals. Pendant box is not working properly, every time operator twist the pendant box and operate the crane.  
+7. East side LT travel gear box mounting is loose condition.
+8. East side control panel door is open condition.
+9. Noise is observed during the long travel movement.","All the abnormalities need to be rectified ","21-12-2024","THIRUNAGESHWARAN.R - PMTC - MFG","VASANTHA KUMAR.V.G - PMTC - MFG","SELVAKUMARAN.B - PMTC - MFG","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20241217_151319][1]_[1].jpg","1"
+"90","STOP NOTICE","19-12-2024","I","Store","GRD store 5T crane"," 5T crane","1.Hoist lower limit cut off is not working.
+2.Abnormal noise is coming during hoist up and down movement.
+3. CT break is not working.
+4. Hook latch spring is not available.
+5. Pendant box direction marking is not available based on the crane movement. 
+6. Direction marking is not available on crane beam.
+7. Entire crane structure is shaking during LT movement.
+8. Hoist rope is rusted condition.
+9. Light illumination is not sufficient. Two lights are available but it's fixed at 8 feet height, During the unloading operation crane operator  vision is obstructed.  Light need to be fixed on above the coil unloading point.
+10. Crane incoming isolator terminals are not guarded/ enclosed.","All the abnormalities need to be rectified.","22-12-2024","Jayachandra babu.D - WED","ELAMARAN.R - Stores","Balakrishna Pawar - WED",,"Reserved_ImageAttachment_[5]_[Photo][19]_[IMG_20241217_152911][1]_[1].jpg","1"
+"91","STOP NOTICE","31-01-2025","General","GRS","GRS Yoke line ","IVW0165- Yoke and pole welding SPM ","Machine is running  without right side guard. ","Guard  to be fixed. ","31-01-2025","Suresh.M - LD GRS","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][19]_[IMG-20250131-WA0003][1]_[1].jpg","1"
+"92","STOP NOTICE","02-02-2025","General","Others","Canteen","IT0992","The tyre rim is rusted and broken","Need to be changed","04-02-2025","Arockia Dass.K - HR (Canteen)",,,"Open","Reserved_ImageAttachment_[5]_[Photo][28]_[Screenshot 2025-02-02 133928][1]_[1].png","1"
+"93","STOP NOTICE","14-02-2025","I","Wiper","Shaft line","IG0059"," Magnetic separator roller not working","Magnetic separator roller needs to be repaired","15-02-2025","Prabakaran.P - Wiper",,,"Open","Reserved_ImageAttachment_[5]_[Photo][32]_[12c7c982c5984539a509fa90723e7731][1]_[1].png","1"
+"94","STOP NOTICE","19-02-2025","I","APU","Stator line","IPH0059- Forming machine","Machine top tool is in Loosened Condition, So that minor Incident happened","Recommended to correct the root cause and do the HD to restart the machine","19-02-2025","Raja Mohan.T - ABU","Prasath.M - ABU","Yuvaraj.M - EHS","Open",,"0"
+"95","STOP NOTICE","26-03-2025","I","Wiper","Wiper Shaft line","IG0115","We already escalated this machine regarding machine condition but still no improvement.
+Machine is very critical of causing fire hazard.
+Huge leakage of coolant oil.
+Wires are not properly insulated and sleeves missing.
+Not maintaining of 5s.
+Machine motor guarding damaged.","Suggested to clear the risk point listed in problem description to avoid major incident.","28-03-2025","Stephen Paulraj D - EPU","Prabakaran.P - Wiper","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][32]_[488cd6c8e7a0431b8768d48a48ec0015][1]_[1].jpg","1"
+"96","STOP NOTICE","26-03-2025","I","Wiper","WIPER Shaft line","IG0059","We already escalated this machine regarding machine condition but still no improvement.
+Machine is very critical of causing fire hazard.
+Machine guarding missing around the machine hazard of rotating parts.
+Huge leakage of coolant oil.
+Wires are not properly insulated and sleeves missing.
+Not maintaining of 5s.
+Routing screws not removed from the floor causes of fall hazard","Suggested to clear the risk point listed in problem description to avoid major incident.
+","27-03-2025","Stephen Paulraj D - EPU","Prabakaran.P - Wiper","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][32]_[ffcd3c28581e4e8d87d5c39853ac2d23][1]_[1].jpg","1"
+"97","CAUTION NOTICE","12-05-2025","I","GRS","GRS SUB LINE ASSEMBLY","IT0939","GRS Sub line Assembly, 
+GRS OUTPUT SHAFT BUSH & PIN PRESSING MACHINE, 
+Stand alone machine running with single tap switch. Which may causes impact to operator,","Kindly replace single tap switch and suggested to install two hand push button.","14-05-2025","Harikrishnan S - CMSBU","Vinosingh.B - GRS","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][32]_[cace1f05c2ad46d58fef4643667a65af][1]_[1].jpg","1"
+"98","STOP NOTICE","15-05-2025","II","GRS","GRS - Armature line ","IT0488- Insul forming & Insertion ","1. Machine was running without left side guard.
+2. Machine cylinder piston movement is not guarded below the machine table  & Below machine table left and right side openable door is not interlocked.","1.Left side door need to be fixed 
+2. Below the machine cylinder piston movement and pinch points needs to be guarded.  Below the machine table left & right side openable door to be interlocked.","15-05-2025","Ramesh.A - CMSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][32]_[1399dfc772844036a17b808fd789be04][1]_[1].jpg","1"
+"99","STOP NOTICE","17-05-2025","III","GRS","Drive Manufacturing line  BROACHING Machine","ITAB007","Unsafe Act: 
+Operator name Karthik, no supervisor in this line, he work in 12hrs shift 3PM to 3AM and he bypass the machine without closing the front guarding, and not wearing apron.
+From safety team given warning he refuse to follow and he said nothing will happen.","Kindly advise supervisor to instruct operators regarding safety awareness, and strict action on this type of safety violating operators.
+ Operators were given Safety Awareness and Safety inter lock verified found OK","19-05-2025","Padmanaban.S - ABU","Rasheed - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][32]_[3a1fa30266e342f386738fdbc6eb4510][1]_[1].jpg","1"
+"100","CAUTION NOTICE","21-05-2025","I","GRS","GRS YOLK Line","IVW0193","In yolk welding machine fumes killer not working, causes fumes circulate around this location causes of breathing issues to the operator and others.","Relocated the Suction zone and Hose replaced. Fumes extraction is effective","22-05-2025","Selvadurai - WED","Srinivasan.A.K - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Closed","Reserved_ImageAttachment_[5]_[Photo][32]_[c27427e3c4e048848d51d2bb1a015a96][1]_[1].jpg","1"
+"101","CAUTION NOTICE","23-05-2025","I","GRS","SGM Armature white stage / INSUL FORMING & INSERTION","IT0487","Right side Sensor Glass broken causes of hand injury.","Suggest to replace sensor and fix dummy in switch panel.","24-05-2025","Srinivasan.A.K - CSBU","Harikrishnan S - CMSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][32]_[f7f6db9fc261438fa3429f1b94058638][1]_[1].jpg","1"
+"102","STOP NOTICE","25-05-2025","I","GRS","Drive Line ","IL0126","Coolant oil leakage all around the machine, 
+Machine guarding bypassed by keeping magnets, 
+Rotating parts may causes crush injury.","Immediate action needs to be taken for oil leakage, periodic cleaning and check the hose nozzle.
+Machine guarding needs to be closed.
+ ","27-05-2025","Srinivasan.A.K - CSBU","Sasikumar.S - CSBU","Shabeer Basha.S - Plant Head (Starter Group, Padi)","Open","Reserved_ImageAttachment_[5]_[Photo][32]_[e86d48cc9c6744cc9c1263aa6019065a][1]_[1].jpg","1"
